@@ -1,0 +1,1 @@
+Hey, this is just repositary of mulitple LITTLE projects from my beginner journey to learn python. Even I already knew some basics of python from high school, I decided that it would be good to test my knowledge and learn Python again and better, and maybe even create a larger project in the future.
